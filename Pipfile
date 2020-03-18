@@ -9,6 +9,7 @@ verify_ssl = true
 pillow = "*"
 image-slicer = "*"
 opencv-python = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.6"
