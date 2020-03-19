@@ -10,6 +10,8 @@ pillow = "*"
 image-slicer = "*"
 opencv-python = "*"
 matplotlib = "*"
+scipy = "*"
+sklearn = "*"
 
 [requires]
 python_version = "3.6"

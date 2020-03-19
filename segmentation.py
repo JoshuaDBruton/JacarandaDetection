@@ -93,3 +93,5 @@ class Watershed:
             plt.draw()
             plt.waitforbuttonpress(0)
             plt.close()
+
+        return markers, border_image
